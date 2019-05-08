@@ -14,7 +14,7 @@ Refonte de la première version (2019)
 *Début: 05/05/2019*
 - Amélioration du positionnement avec usage de Flexbox
 - Plus épuré
-- Ajout d'une page "Looks"
+- Ajout d'une page "Looks" & "Notre story"
 - Maquettes sur Adobe XD
 - Utilisation de HTML5/CSS & Javascript
 
