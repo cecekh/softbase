@@ -11,6 +11,7 @@ Lien vers [Softbase V1](http://softbase.ovh/)
 
 ## Softbase V2
 Refonte de la première version (2019)
+*Début: 05/05/2019
 - Amélioration du positionnement avec usage de Flexbox
 - Plus épuré
 - Utilisation de HTML5/CSS & Javascript
