@@ -9,6 +9,7 @@ Premier projet de developpement web pour le bac d'ISN (2017-2018)
 - Utilisation de HTML5/CSS
 
 Lien vers [Softbase V1](http://softbase.ovh/)
+Lien vers [Softbase V1 Github](https://cecekh.github.io/softbaseV1/)
 
 ## Softbase V2
 Refonte de la première version (2019)
@@ -19,4 +20,4 @@ Refonte de la première version (2019)
 - Maquettes sur Adobe XD
 - Utilisation de HTML5/CSS & Javascript
 
-Lien vers [Softbase V2](https://cecekh.github.io/softbase/)
+Lien vers [Softbase V2](https://cecekh.github.io/softbaseV2/)
