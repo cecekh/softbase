@@ -6,7 +6,7 @@ Premier projet de developpement web pour le bac d'ISN (2017-2018)
 - Première expérience dans la programmation web
 - Création d'un site vitrine d'une boutique de vêtements fictive nommée "Softbase"
 - Hébergement du site sur OVH
-- Utilisation de HTML5/CSS
+- Utilisation de HTML5/CSS & PHP
 
 Lien vers [Softbase V1](http://softbase.ovh/)
 
